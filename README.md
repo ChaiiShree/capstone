@@ -88,6 +88,13 @@ Here are visuals showcasing the physical setup and key diagrams from the project
 ![Flight Controller Flowchart](images/fcflowchart.jpg)
 *Fig 8: Flowchart detailing the operational logic and data flow of the Indigenous Flight Controller.*
 
-## Confidentiality Note
+## License & Confidentiality
 
-Due to the patent-pending status and proprietary nature of certain components, the full source code for the patented aspects is not publicly available. For collaborations or deeper technical insights, please contact me directly under an NDA.
+This project is released under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the LICENSE file for full details.
+
+Due to the patent-pending status and proprietary nature of certain core components, the full source code for the patented aspects, specifically those filed with the Indian Patent Office, is not publicly available.
+
+For collaborations, deeper technical insights, or any inquiries regarding the patented technologies, please feel free to reach out:
+
+* **Email:** chaitanyajayant2004@gmail.com
+* **LinkedIn:** [Chaitanya Jayant](https://www.linkedin.com/in/chaitanyajayant/)
