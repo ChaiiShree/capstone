@@ -60,10 +60,10 @@ Here are visuals showcasing the physical setup and key diagrams from the project
 
 *These images show the physical drones and the IFF module setup.*
 
-![Drone 1 - General View](diagrams/drone_1.jpg)
+![Drone 1 - General View](images/drone_1.jpg)
 *Fig 1: One of the UAVs used in the project, showcasing its general design.*
 
-![Drone 2 - Close Up](diagrams/drone_2.jpg)
+![Drone 2 - Close Up](images/drone_2.jpg)
 *Fig 2: A closer look at the UAV hardware and mounted components.*
 
 ![IFF Physical Setup](images/iffsetup.jpg)
