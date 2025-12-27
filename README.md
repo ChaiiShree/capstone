@@ -2,6 +2,8 @@
 
 A Secure, Decentralized, and Patented Identification System for UAV Swarms.
 
+> **📱 [Click here to view all project details](https://autonomousiffsystem.streamlit.app/)** - Interactive dashboard with real-time demonstrations
+
 ## 🎯 Project Overview
 
 Managing secure airspaces has become increasingly complex with the rapid rise of UAVs. Traditional Identification Friend or Foe (IFF) systems are often too heavy, power-hungry, or costly for small-scale tactical drones.
