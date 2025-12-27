@@ -58,16 +58,18 @@ st.title("🛸 Autonomous Friend or Foe (IFF) System")
 st.markdown("### Secure Decentralized Identification for UAV Swarms")
 st.write("---")
 
-# --- KPI METRICS ---
+# --- KPI METRICS (REPLACED CARDS) ---
 m1, m2, m3, m4 = st.columns(4)
 with m1:
-    st.markdown('<div class="metric-card"><h4>Auth Success</h4><h2>91.3%</h2><p>Tactical Field Tests</p></div>', unsafe_allow_html=True)
+    st.markdown('<div class="metric-card"><h4>Auth Success</h4><h2>91.3%</h2><p>Tactical Environment</p></div>', unsafe_allow_html=True)
 with m2:
     st.markdown('<div class="metric-card"><h4>Payload Accuracy</h4><h2>< 5m</h2><p>GPS-Guided Drop</p></div>', unsafe_allow_html=True)
 with m3:
-    st.markdown('<div class="metric-card"><h4>Deadlock Events</h4><h2>0</h2><p>Role-Alternating Logic</p></div>', unsafe_allow_html=True)
+    # REPLACED: Tech metric for Latency
+    st.markdown('<div class="metric-card"><h4>Auth Latency</h4><h2>847ms</h2><p>Avg Handshake Time</p></div>', unsafe_allow_html=True)
 with m4:
-    st.markdown('<div class="metric-card"><h4>Total Build Cost</h4><h2>₹34,025</h2><p>Indigenous Design</p></div>', unsafe_allow_html=True)
+    # REPLACED: Tech metric for RF Reliability
+    st.markdown('<div class="metric-card"><h4>RF Link Success</h4><h2>92.2%</h2><p>LoRa 433MHz Mesh</p></div>', unsafe_allow_html=True)
 
 # --- MAIN TABS ---
 st.markdown("<br>", unsafe_allow_html=True)
